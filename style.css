@@ -1,0 +1,32 @@
+.main-title {
+    color: #00aaff;
+    text-align: center;
+}
+
+ul li {
+    font-size: 20px;
+    color: rgb(50, 10, 200);
+}
+
+.desc-title {
+    font-family: Verdana, "Times New Roman", sans-serif;
+    font-size: 22px;
+}
+
+ol li.step {
+    background-color: yellow;
+    font-size: 20px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+body h2 {
+    text-align: center;
+}
+
+.steps-title {
+    color: red;
+}
